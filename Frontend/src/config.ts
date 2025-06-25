@@ -18,7 +18,7 @@ const DEFAULT_API_URL =
 
 // Default Firebase configuration values
 const DEFAULT_FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCOvJJJ09So-UMX48LPD11Qph5u4kHdY5c",
+  apiKey: "AI",
   authDomain: "vecem-a2b35.firebaseapp.com",
   projectId: "vecem-a2b35",
   storageBucket: "vecem-a2b35.firebasestorage.app",
