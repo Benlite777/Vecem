@@ -36,7 +36,7 @@ class FRIDAY:
         self.api_key = user["api_key"]
         self.model = ChatGoogleGenerativeAI(
             model="gemini-2.0-flash",
-            api_key="AIzaSyATFQctT4rxLrtQg6euoQRwBEF8PlQ77qQ",
+            api_key="AI",
             temperature=0.7
         )
 
