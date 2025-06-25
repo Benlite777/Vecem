@@ -38,8 +38,7 @@ class Settings(BaseSettings):
                 f"{', '.join(missing_vars)}\n\n"
                 "Please ensure these variables are set in your .env file or environment.\n"
                 "Example .env file:\n"
-                "MONGODB_URL=mongodb+srv://username:password@cluster.mongodb.net/db\n"
-                "AZURE_STORAGE_CONNECTION_STRING=DefaultEndpointsProtocol=https;..."
+                "MONGODB_URL=mongodb+srv
             )
             raise ValueError(error_message)
 
