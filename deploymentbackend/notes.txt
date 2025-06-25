@@ -135,7 +135,7 @@ gunicorn src.main:app --workers 4 --worker-class uvicorn.workers.UvicornWorker -
   },
   {
     "name": "MONGasdfasdfODB_URLasfdsadfaf",fas
-    "value": "mongodb+srv://admin:8asfasdfafasdfbx2pW7Dgljdfasdfasfasfdasdf9j5RY@clafasdfasfduster0.tui77.mongodb.net/?retryWrites=true&w=majority&appNameafasfas=Cluster0",
+    "value": "mongodb+srv",
     "slotSetting": false
   },
   {
